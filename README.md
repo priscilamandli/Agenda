@@ -2,7 +2,7 @@
 
 ![The page look like this](./public/page.jpeg)
 
-This is the first projects by my self. Consists in get some values, save them in the database and then, render them in cards.
+This is the first project by myself. Consists of getting some values, saving them into the database followed by rendering them in cards.
 
 If you want to **reuse my code** follow this steps:
 1. Create a *project* and a *database* in [Firebase/Firestore](https://firebase.google.com/) .
