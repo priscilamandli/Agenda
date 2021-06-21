@@ -1,0 +1,82 @@
+body {
+    background-color: #fffeea;
+}
+
+ h3{
+        color:#fffeea;
+   } 
+
+ h2 {
+    color:#ff443a;
+    font-size: 23px;
+    padding-bottom: 10px;
+ }  
+ p {
+    margin-bottom: 5px;
+    margin-left: 20px;
+  }   
+  
+ .add_button {
+    float: right;
+    border-color: #008891;
+    color: #008891;
+    margin: 20px;
+    }
+
+
+.delete_button {
+    color:#008891;
+    text-decoration: none;
+    padding: 0%;
+    margin-bottom: 10px;
+    position: relative;
+    left: 170px;
+}    
+.input{
+   margin-bottom: 10px;
+}
+
+.input_container {
+    width: 250px;
+    height: 300px;
+    padding: 20px;
+    margin: 20px;
+    border-style: solid;
+    border-color: #008891;
+    border-radius: 5px;
+    
+}
+
+.card_container {
+    border-style: solid;
+    border-color: #ff443a;
+    border-radius: 5px;
+    width: 250px;
+    height: 170px;
+    margin: 10px;
+    
+}
+
+.contact_name {
+    
+    margin-bottom: 15px;
+    background-color: #ff443a;
+    text-align: left;
+    padding: 10px 20px;
+    
+    
+}
+
+.contact.content {
+ margin-left: 30px;
+}
+
+.heading_container {
+ height: 30px;
+ background-color: #008891;
+
+}
+
+.contact_container {
+    margin-top: 20px;
+}
